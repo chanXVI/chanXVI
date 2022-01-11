@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @chanXVI (Sanil Pannachan).
+- 👋 Hi, I am Sanil Pannachan.
 - 👀 I’m interested in web and software development.
 - 🌱 I’m currently learning html/css/javascript.
 - 💞️ I’m looking to collaborate on frontend projects.
